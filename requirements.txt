@@ -20,6 +20,7 @@ graphene-django==3.2.3
 graphql-core==3.2.6
 graphql-relay==3.2.0
 idna==3.10
+oauthlib==3.2.2
 promise==2.3
 psycopg2-binary==2.9.10
 pyasn1==0.4.8
@@ -29,7 +30,9 @@ PyJWT==2.10.1
 python-dateutil==2.9.0.post0
 python-decouple==3.8
 python-jose==3.4.0
+python-openid==2.2.5
 requests==2.32.3
+requests-oauthlib==2.0.0
 rsa==4.9.1
 six==1.17.0
 smmap==5.0.2
